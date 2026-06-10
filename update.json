@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "downloadUrl": "https://github.com/ManduMihai/POS-Bridge/releases/download/v1.1.0/POSBridge-Setup-v1.1.0.exe",
+  "releaseNotes": "• Folder logic: POBSoft folder folosit doar în modul Ambele\n• Modurile Imprimantă fiscală și Terminal bancar folosesc același folder principal\n• Sistem auto-update din repo public Denzun/POSBRIDGE_LIVE_UPDATES\n• Butoane Export ANAF în Rapoarte\n• Fix TextLine (TL) în bonuri fiscale\n• Fix Incotex CMD 54\n• Fix DUDE shutdown la ieșire\n• Fix POBSmartPay răspuns folder + nume fișier",
+  "publishedAt": "2026-06-09T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.1.0.exe"
+}
