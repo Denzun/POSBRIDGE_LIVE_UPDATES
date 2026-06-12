@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.1.7/POSBridge-Setup-v1.1.7.exe",
-  "releaseNotes": "• Fix Incotex fiscal text command CMD 54 syntax error\n• Update installer package to v1.1.7",
-  "publishedAt": "2026-06-11T13:30:00Z",
-  "assetName": "POSBridge-Setup-v1.1.7.exe"
+  "version": "1.1.8",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.1.8/POSBridge-Setup-v1.1.8.exe",
+  "releaseNotes": "• Footer now shows full build/runtime version with git commit hash\n• Activation tab keeps the clean short version (e.g. 1.1.8)\n• SmartPay error messages are concise; full debug log is written to desktop file\n• Documentation tab updated with version identification and SmartPay error info",
+  "publishedAt": "2026-06-12T10:45:00Z",
+  "assetName": "POSBridge-Setup-v1.1.8.exe"
 }
