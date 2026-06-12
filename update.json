@@ -1,7 +1,7 @@
 {
   "version": "1.1.8",
   "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.1.8/POSBridge-Setup-v1.1.8.exe",
-  "releaseNotes": "• Footer now shows full build/runtime version with git commit hash\n• Activation tab keeps the clean short version (e.g. 1.1.8)\n• SmartPay error messages are concise; full debug log is written to desktop file\n• Documentation tab updated with version identification and SmartPay error info",
+  "releaseNotes": "\u2022 Footer now shows full build/runtime version with git commit hash\n\u2022 Activation tab keeps the clean short version (e.g. 1.1.8)\n\u2022 SmartPay error messages are concise; full debug log is written to C:\\POSBridge\\Logs\\POSBridge-SmartPay-Debug.txt\n\u2022 Documentation tab updated with version identification and SmartPay error info",
   "publishedAt": "2026-06-12T10:45:00Z",
   "assetName": "POSBridge-Setup-v1.1.8.exe"
 }
