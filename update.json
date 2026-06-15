@@ -1,7 +1,7 @@
 {
-  "version": "1.2.0",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.0/POSBridge-Setup-v1.2.0.exe",
-  "releaseNotes": "• Eliminare butoane duplicat conectare terminal\n• Corecție auto-conectare terminal bancar",
-  "publishedAt": "2026-06-15T09:50:00Z",
-  "assetName": "POSBridge-Setup-v1.2.0.exe"
+  "version": "1.2.1",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.1/POSBridge-Setup-v1.2.1.exe",
+  "releaseNotes": "• Detecție deconectare USB și reconectare automată\n• Afișare avertismente hardware în UI (ex. Lipsă hârtie)\n• Ascundere Cod operator și Parolă în modul Terminal\n• Eliminare butoane duplicat conectare terminal",
+  "publishedAt": "2026-06-15T10:15:00Z",
+  "assetName": "POSBridge-Setup-v1.2.1.exe"
 }
