@@ -1,7 +1,7 @@
 {
-  "version": "1.1.9",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.1.9/POSBridge-Setup-v1.1.9.exe",
-  "releaseNotes": "• Corecție persistență mod conexiune la pornire.\n• Excludere terminal bancar ING Mellon din dropdown-ul de imprimante.\n• Activare monitorizare folder în modul independent Terminal Bancar.\n• Blocarea modurilor de conexiune inactive dacă există conexiuni active.\n• Îmbunătățire status top-right pentru monitorizare și conexiuni.",
-  "publishedAt": "2026-06-15T09:00:00Z",
-  "assetName": "POSBridge-Setup-v1.1.9.exe"
+  "version": "1.2.0",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.0/POSBridge-Setup-v1.2.0.exe",
+  "releaseNotes": "• Eliminare butoane duplicat conectare terminal\n• Corecție auto-conectare terminal bancar",
+  "publishedAt": "2026-06-15T09:50:00Z",
+  "assetName": "POSBridge-Setup-v1.2.0.exe"
 }
