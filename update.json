@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.7/POSBridge-Setup-v1.2.7.exe",
-  "releaseNotes": "• NOU: Fereastra interactiva pentru Istoric Bonuri cu cautare live\n• Parola implicita Datecs setata la 0001",
-  "publishedAt": "2026-06-15T09:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.7.exe"
+  "version": "1.2.8",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.8/POSBridge-Setup-v1.2.8.exe",
+  "releaseNotes": "• Interfata curata fara Rapoarte X si Z\n• Butoane selectare rapida Azi, Ieri, 7 Zile\n• Placeholder cautare",
+  "publishedAt": "2026-06-15T09:10:00Z",
+  "assetName": "POSBridge-Setup-v1.2.8.exe"
 }
