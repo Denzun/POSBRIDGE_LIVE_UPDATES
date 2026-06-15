@@ -1,7 +1,7 @@
 {
-  "version": "1.2.5",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.5/POSBridge-Setup-v1.2.5.exe",
-  "releaseNotes": "• Fix afisare text ciudat in status\n• Auto-Recovery la intrerupere cablu\n• Ignorare inteligenta timeout la conectare initiala",
-  "publishedAt": "2026-06-15T08:05:00Z",
-  "assetName": "POSBridge-Setup-v1.2.5.exe"
+  "version": "1.2.6",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.6/POSBridge-Setup-v1.2.6.exe",
+  "releaseNotes": "• Parola implicita Datecs 0001\n• Fix afisare text ciudat in status\n• Auto-Recovery cablu deconectat",
+  "publishedAt": "2026-06-15T08:30:00Z",
+  "assetName": "POSBridge-Setup-v1.2.6.exe"
 }
