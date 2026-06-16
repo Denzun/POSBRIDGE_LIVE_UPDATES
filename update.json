@@ -1,7 +1,7 @@
 {
-  "version": "1.2.17",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.17/POSBridge-Setup-v1.2.17.exe",
-  "releaseNotes": "• Fixed duplicate subtotal lines on Incotex receipts\n• Improved Auto Detect for Datecs: now tests each COM port using the fiscal protocol directly\n• Improved Auto Detect for Incotex: increased probe timeout for more reliable detection\n• Fixed Incotex syntax error when printing items with special characters (TAB/LF/CR)",
-  "publishedAt": "2026-06-16T12:30:00Z",
-  "assetName": "POSBridge-Setup-v1.2.17.exe"
+  "version": "1.2.19",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.19/POSBridge-Setup-v1.2.19.exe",
+  "releaseNotes": "• Fixed double SUBTOTAL on Incotex receipts (root cause: AMEF ignores print=0 flag on CMD 51)\n• Incotex: CMD 51 (Subtotal) is now only sent when a discount/markup exists; total calculated locally for plain receipts\n• Auto Detect overhaul for Datecs, Incotex and Daisy using ISL protocol serial number validation\n• Incotex: improved subtotal logic — device auto-prints SUBTOTAL during payment, no duplicate",
+  "publishedAt": "2026-06-16T13:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.19.exe"
 }
