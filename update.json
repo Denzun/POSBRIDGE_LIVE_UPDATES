@@ -1,7 +1,7 @@
 {
-  "version": "1.2.8",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.8/POSBridge-Setup-v1.2.8.exe",
-  "releaseNotes": "• Interfata curata fara Rapoarte X si Z\n• Butoane selectare rapida Azi, Ieri, 7 Zile\n• Placeholder cautare",
-  "publishedAt": "2026-06-15T09:10:00Z",
-  "assetName": "POSBridge-Setup-v1.2.8.exe"
+  "Version": "1.2.12",
+  "ReleaseNotes": "Added Printec POS-ECR binary protocol for ING Bank POS integration.",
+  "DownloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.12/POSBridge-Setup-v1.2.12.exe",
+  "AssetName": "POSBridge-Setup-v1.2.12.exe",
+  "PublishedAt": "2026-06-16T00:00:00Z"
 }
