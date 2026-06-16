@@ -1,7 +1,7 @@
 {
-  "Version": "1.2.15",
-  "ReleaseNotes": "Fixed 'Eroare 7 / Cmd 53 (Operație interzisă)' on Incotex M7 for SGR mixed receipts. Added Incotex documentation.",
-  "DownloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.15/POSBridge-Setup-v1.2.15.exe",
-  "AssetName": "POSBridge-Setup-v1.2.15.exe",
-  "PublishedAt": "2026-06-16T12:35:00Z"
+  "version": "1.2.16",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.16/POSBridge-Setup-v1.2.16.exe",
+  "releaseNotes": "• Fixed Incotex M7 Syntax Error on SGR and specific products (CMD 49 formatting issue).\n• Updated Incotex device protocol to not escape TAB separator characters.\n• Retained the SGR implicit payment flow for receipts with total matching payment.\n• General stability improvements for Datecs DUDE connections.",
+  "publishedAt": "2026-06-16T12:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.16.exe"
 }
