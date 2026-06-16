@@ -1,7 +1,7 @@
 {
-  "version": "1.2.16",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.16/POSBridge-Setup-v1.2.16.exe",
-  "releaseNotes": "• Fixed Incotex M7 Syntax Error on SGR and specific products (CMD 49 formatting issue).\n• Updated Incotex device protocol to not escape TAB separator characters.\n• Retained the SGR implicit payment flow for receipts with total matching payment.\n• General stability improvements for Datecs DUDE connections.",
-  "publishedAt": "2026-06-16T12:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.16.exe"
+  "version": "1.2.17",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.17/POSBridge-Setup-v1.2.17.exe",
+  "releaseNotes": "• Fixed duplicate subtotal lines on Incotex receipts\n• Improved Auto Detect for Datecs: now tests each COM port using the fiscal protocol directly\n• Improved Auto Detect for Incotex: increased probe timeout for more reliable detection\n• Fixed Incotex syntax error when printing items with special characters (TAB/LF/CR)",
+  "publishedAt": "2026-06-16T12:30:00Z",
+  "assetName": "POSBridge-Setup-v1.2.17.exe"
 }
