@@ -1,7 +1,7 @@
 {
-  "Version": "1.2.12",
-  "ReleaseNotes": "Added Printec POS-ECR binary protocol for ING Bank POS integration.",
-  "DownloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.12/POSBridge-Setup-v1.2.12.exe",
-  "AssetName": "POSBridge-Setup-v1.2.12.exe",
-  "PublishedAt": "2026-06-16T00:00:00Z"
+  "Version": "1.2.13",
+  "ReleaseNotes": "Fixed Daisy Error 7 for SGR bottles. Added Printec POS-ECR binary protocol for ING Bank POS integration.",
+  "DownloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.13/POSBridge-Setup-v1.2.13.exe",
+  "AssetName": "POSBridge-Setup-v1.2.13.exe",
+  "PublishedAt": "2026-06-16T12:00:00Z"
 }
