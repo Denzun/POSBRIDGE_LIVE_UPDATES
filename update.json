@@ -1,7 +1,7 @@
 {
-  "version": "1.2.19",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.19/POSBridge-Setup-v1.2.19.exe",
-  "releaseNotes": "• Fixed double SUBTOTAL on Incotex receipts (root cause: AMEF ignores print=0 flag on CMD 51)\n• Incotex: CMD 51 (Subtotal) is now only sent when a discount/markup exists; total calculated locally for plain receipts\n• Auto Detect overhaul for Datecs, Incotex and Daisy using ISL protocol serial number validation\n• Incotex: improved subtotal logic — device auto-prints SUBTOTAL during payment, no duplicate",
-  "publishedAt": "2026-06-16T13:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.19.exe"
+  "version": "1.2.40",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.40/POSBridge-Setup-v1.2.40.exe",
+  "releaseNotes": "FIX: ING Mellon GECR terminal now parses final transaction responses (MEL0101R/S.../C...) correctly. FIX: 'Deconectare terminal bancar' works even when a payment is in progress or waiting for a response. UI: ING Mellon GECR is now only in Terminal bancar list; removed Tremol and Elcom from Imprimanta fiscala list.",
+  "publishedAt": "2026-06-17T14:20:00Z",
+  "assetName": "POSBridge-Setup-v1.2.40.exe"
 }
