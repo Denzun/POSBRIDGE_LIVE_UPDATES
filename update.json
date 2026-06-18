@@ -1,7 +1,7 @@
 {
-  "version": "1.2.40",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.40/POSBridge-Setup-v1.2.40.exe",
-  "releaseNotes": "FIX: ING Mellon GECR terminal now parses final transaction responses (MEL0101R/S.../C...) correctly. FIX: 'Deconectare terminal bancar' works even when a payment is in progress or waiting for a response. UI: ING Mellon GECR is now only in Terminal bancar list; removed Tremol and Elcom from Imprimanta fiscala list.",
-  "publishedAt": "2026-06-17T14:20:00Z",
-  "assetName": "POSBridge-Setup-v1.2.40.exe"
+  "version": "1.2.42",
+  "downloadUrl": "URL_WHERE_YOU_UPLOADED_POSBridge-Setup-v1.2.42.exe",
+  "releaseNotes": "Added new app icon and fixed Daisy 0-price receipt bug.",
+  "publishedAt": "2026-06-18T10:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.42.exe"
 }
