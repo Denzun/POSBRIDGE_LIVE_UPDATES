@@ -1,7 +1,7 @@
 {
-  "version": "1.2.42",
-  "downloadUrl": "URL_WHERE_YOU_UPLOADED_POSBridge-Setup-v1.2.42.exe",
-  "releaseNotes": "Added new app icon and fixed Daisy 0-price receipt bug.",
-  "publishedAt": "2026-06-18T10:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.42.exe"
+  "version": "1.2.51",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.51/POSBridge-Setup-v1.2.51.exe",
+  "releaseNotes": "• Fix plată Daisy (card/cash fallback corect)\n• Îmbunătățiri căutare istoric bonuri\n• Installer complet în limba română\n• Alte corecții și stabilitate",
+  "publishedAt": "2026-06-19T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.51.exe"
 }
