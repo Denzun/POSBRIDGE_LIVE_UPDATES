@@ -1,7 +1,7 @@
 {
-  "version": "1.2.52",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.52/POSBridge-Setup-v1.2.52.exe",
-  "releaseNotes": "• Daisy invoice receipt support (CMD 0x39) • ...",
-  "publishedAt": "2026-06-22T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.52.exe"
+  "version": "1.2.53",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.53/POSBridge-Setup-v1.2.53.exe",
+  "releaseNotes": "• Removed version/build hash from status bar • Fixed update window crash • Daisy invoice support",
+  "publishedAt": "2026-06-22T12:30:00Z",
+  "assetName": "POSBridge-Setup-v1.2.53.exe"
 }
