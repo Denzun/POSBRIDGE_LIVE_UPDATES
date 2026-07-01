@@ -1,7 +1,7 @@
 {
-  "version": "1.2.55",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.55/POSBridge-Setup-v1.2.55.exe",
-  "releaseNotes": "• Istoric Bonuri: selector de perioadă cu un singur calendar\n• Buton re-tipărire bon din istoric cu confirmare\n• Corecții vizuale calendar",
-  "publishedAt": "2026-06-22T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.55.exe"
+  "version": "1.2.56",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.56/POSBridge-Setup-v1.2.56.exe",
+  "releaseNotes": "IMPROVED: Datecs connection and printer-unavailable errors now show clear professional Romanian messages instead of raw DUDE COM technical errors, while keeping other real errors visible. FIX: Datecs duplicate receipt printing uses the native DUDE raw command flow and avoids replaying fiscal receipts from local history. FIX: Daisy Compact S KG sales use the correct department mapping for weighted products.",
+  "publishedAt": "2026-07-01T07:40:00Z",
+  "assetName": "POSBridge-Setup-v1.2.56.exe"
 }
