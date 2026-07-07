@@ -1,7 +1,7 @@
 {
-  "version": "1.2.57",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.57/POSBridge-Setup-v1.2.57.exe",
-  "releaseNotes": "FIX: Datecs/DUDE error -111017 (No cash in ECR) now appears in Romanian as a clear cash-register message. IMPROVED: Common Datecs fiscal errors now show friendly Romanian explanations for printer not connected, open receipt, Z report required, paper out, operator password, payment state, and communication issues while unknown errors remain visible for diagnosis.",
-  "publishedAt": "2026-07-02T06:25:54Z",
-  "assetName": "POSBridge-Setup-v1.2.57.exe"
+  "version": "1.2.59",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.59/POSBridge-Setup-v1.2.59.exe",
+  "releaseNotes": "IMPROVED: POSBridge now starts in the background when launched automatically with Windows, while manual launches still open the main window. ADDED: Datecs developer EJ export can save fiscal receipts from the selected date range to Desktop\\Bonuri fiscale.",
+  "publishedAt": "2026-07-07T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.59.exe"
 }
