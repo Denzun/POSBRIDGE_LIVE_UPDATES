@@ -1,7 +1,7 @@
 {
   "version": "1.2.60",
   "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.60/POSBridge-Setup-v1.2.60.exe",
-  "releaseNotes": "HOTFIX: Mesajul pentru eroarea de conectare USB directa la Incotex este acum mai clar, in limba romana, cu pasi concreti de verificare pentru cablu, driver WinUSB, FiscalNet si alternativa Serial/COM.",
+  "releaseNotes": "HOTFIX: Mesajul pentru eroarea de conectare USB directa la Incotex este acum mai clar, in limba romana.",
   "publishedAt": "2026-07-10T00:00:00Z",
   "assetName": "POSBridge-Setup-v1.2.60.exe"
 }
