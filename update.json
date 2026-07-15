@@ -1,7 +1,7 @@
 {
-  "version": "1.2.61",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.61/POSBridge-Setup-v1.2.61.exe",
-  "releaseNotes": "IMPROVED: Exportul Datecs EJ ruleaza acum pe zile, cu progres Ziua X din Y, pana la 3 reincercari pe zi si fisier summary. Daca o zi esueaza, exportul continua cu zilele urmatoare in loc sa piarda tot intervalul. HOTFIX: Mesajul pentru eroarea de conectare USB directa la Incotex este mai clar, in limba romana.",
-  "publishedAt": "2026-07-10T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.61.exe"
+  "version": "1.2.63",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.63/POSBridge-Setup-v1.2.63.exe",
+  "releaseNotes": "HOTFIX: POSBridge porneste normal chiar daca BonFolder din settings.txt este gol sau a fost corupt in timpul opririi calculatorului. Setarile sunt acum salvate atomic, iar versiunea anterioara este pastrata in settings.txt.bak pentru recuperare.",
+  "publishedAt": "2026-07-15T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.63.exe"
 }
