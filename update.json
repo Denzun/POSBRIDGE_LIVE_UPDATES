@@ -1,7 +1,7 @@
 {
-  "version": "1.2.63",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.63/POSBridge-Setup-v1.2.63.exe",
-  "releaseNotes": "HOTFIX: POSBridge porneste normal chiar daca BonFolder din settings.txt este gol sau a fost corupt in timpul opririi calculatorului. Setarile sunt acum salvate atomic, iar versiunea anterioara este pastrata in settings.txt.bak pentru recuperare.",
-  "publishedAt": "2026-07-15T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.63.exe"
+  "version": "1.2.64",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.64/POSBridge-Setup-v1.2.64.exe",
+  "releaseNotes": "IMPROVED: POSBridge recupereaza automat conexiunea Datecs/DUDE la eroarea -10524 (Missing output parameter). Reincercarea automata este limitata la deschiderea bonului inainte de trimiterea produselor si la raportul X. Platile, rapoartele Z si bonurile incepute nu sunt retrimise automat.",
+  "publishedAt": "2026-07-17T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.64.exe"
 }
