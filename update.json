@@ -1,7 +1,7 @@
 {
-  "version": "1.2.64",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.64/POSBridge-Setup-v1.2.64.exe",
-  "releaseNotes": "IMPROVED: POSBridge recupereaza automat conexiunea Datecs/DUDE la eroarea -10524 (Missing output parameter). Reincercarea automata este limitata la deschiderea bonului inainte de trimiterea produselor si la raportul X. Platile, rapoartele Z si bonurile incepute nu sunt retrimise automat.",
-  "publishedAt": "2026-07-17T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.64.exe"
+  "version": "1.2.67",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.67/POSBridge-Setup-v1.2.67.exe",
+  "releaseNotes": "HOTFIX: Permite bonurile SGR nefiscale (text) fara a returna eroare de validare fiscala. UI: Reparat butonul X al ferestrei care acum minimizeaza corect in tray si afiseaza o notificare, prevenind inchiderea accidentala a aplicatiei.",
+  "publishedAt": "2026-07-27T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.67.exe"
 }
