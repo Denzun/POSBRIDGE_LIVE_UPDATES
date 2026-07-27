@@ -1,7 +1,7 @@
 {
   "version": "1.2.67",
   "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.67/POSBridge-Setup-v1.2.67.exe",
-  "releaseNotes": "HOTFIX: Permite bonurile SGR nefiscale (text) fara a returna eroare de validare fiscala. UI: Reparat butonul X al ferestrei care acum minimizeaza corect in tray si afiseaza o notificare, prevenind inchiderea accidentala a aplicatiei.",
+  "releaseNotes": "NEW: Interfata grafica noua si Activity Log. HOTFIX: Bonurile care contin doar text (ex: Dispozitie de Plata pentru retur SGR) sunt acum permise si tiparite corect ca documente nefiscale, fara sa mai primeasca eroare.",
   "publishedAt": "2026-07-27T00:00:00Z",
   "assetName": "POSBridge-Setup-v1.2.67.exe"
 }
