@@ -1,7 +1,7 @@
 {
-  "version": "1.2.67",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.67/POSBridge-Setup-v1.2.67.exe",
-  "releaseNotes": "NEW: Interfata grafica noua si Activity Log. HOTFIX: Bonurile care contin doar text (ex: Dispozitie de Plata pentru retur SGR) sunt acum permise si tiparite corect ca documente nefiscale, fara sa mai primeasca eroare.",
-  "publishedAt": "2026-07-27T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.67.exe"
+  "version": "1.2.68",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.68/POSBridge-Setup-v1.2.68.exe",
+  "releaseNotes": "NEW: Integrare Tremol și Partner. Export XML ANAF. Actualizare interfață și Ghid de Utilizare.",
+  "publishedAt": "2026-08-03T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.68.exe"
 }
