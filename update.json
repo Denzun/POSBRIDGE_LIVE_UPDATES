@@ -1,7 +1,7 @@
 {
-  "version": "1.2.69",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.69/POSBridge-Setup-v1.2.69.exe",
-  "releaseNotes": "FIX: Izolare drivere pe vendor — dacă Windows (App Control / AppLocker) blochează DLL-ul unui vendor (ex: POSBridge.Devices.Tremol.dll), ceilalți vendori nu mai sunt afectați. Fiecare driver se încarcă acum doar când este selectat și folosit efectiv.",
+  "version": "1.2.70",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.70/POSBridge-Setup-v1.2.70.exe",
+  "releaseNotes": "FIX: Folder de schimb POBsoft — dacă programul POS șterge subfolderele Istoric/Dubluri/Erori (POBsoft golește folderul înainte de fiecare fișier), POS Bridge le recreează automat înainte de arhivare. Jurnalul afișează acum cauza reală la mutarea fișierelor.",
   "publishedAt": "2026-08-04T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.69.exe"
+  "assetName": "POSBridge-Setup-v1.2.70.exe"
 }
