@@ -1,7 +1,7 @@
 {
-  "version": "1.2.68",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.68/POSBridge-Setup-v1.2.68.exe",
-  "releaseNotes": "NEW: Integrare Tremol și Partner. Export XML ANAF. Actualizare interfață și Ghid de Utilizare.",
-  "publishedAt": "2026-08-03T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.68.exe"
+  "version": "1.2.69",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.69/POSBridge-Setup-v1.2.69.exe",
+  "releaseNotes": "FIX: Izolare drivere pe vendor — dacă Windows (App Control / AppLocker) blochează DLL-ul unui vendor (ex: POSBridge.Devices.Tremol.dll), ceilalți vendori nu mai sunt afectați. Fiecare driver se încarcă acum doar când este selectat și folosit efectiv.",
+  "publishedAt": "2026-08-04T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.69.exe"
 }
