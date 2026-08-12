@@ -1,7 +1,7 @@
 {
-  "version": "1.2.75",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.75/POSBridge-Setup-v1.2.75.exe",
-  "releaseNotes": "FIX: Traduceri în limba română pentru erorile provenite de la terminalele bancare (SmartPay, Mellon, Mellon GECR). Installer-ul este acum Self-Contained, astfel încât nu mai cere instalarea .NET Desktop Runtime manual.",
+  "version": "1.2.76",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.76/POSBridge-Setup-v1.2.76.exe",
+  "releaseNotes": "FIX: Re-conectare automată pentru terminalul bancar la declanșarea plății + optimizare Keep-Alive pe portul COM la 60 secunde pentru stabilitate sporită în modul Ambele.",
   "publishedAt": "2026-08-12T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.75.exe"
+  "assetName": "POSBridge-Setup-v1.2.76.exe"
 }
