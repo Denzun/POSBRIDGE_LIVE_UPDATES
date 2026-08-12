@@ -1,7 +1,7 @@
 {
-  "version": "1.2.70",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.70/POSBridge-Setup-v1.2.70.exe",
-  "releaseNotes": "FIX: Folder de schimb POBsoft — dacă programul POS șterge subfolderele Istoric/Dubluri/Erori (POBsoft golește folderul înainte de fiecare fișier), POS Bridge le recreează automat înainte de arhivare. Jurnalul afișează acum cauza reală la mutarea fișierelor.",
-  "publishedAt": "2026-08-04T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.70.exe"
+  "version": "1.2.75",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.75/POSBridge-Setup-v1.2.75.exe",
+  "releaseNotes": "FIX: Traduceri în limba română pentru erorile provenite de la terminalele bancare (SmartPay, Mellon, Mellon GECR). Installer-ul este acum Self-Contained, astfel încât nu mai cere instalarea .NET Desktop Runtime manual.",
+  "publishedAt": "2026-08-12T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.75.exe"
 }
