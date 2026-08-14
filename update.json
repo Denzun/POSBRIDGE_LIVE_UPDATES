@@ -1,7 +1,7 @@
 {
-  "version": "1.2.76",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.76/POSBridge-Setup-v1.2.76.exe",
-  "releaseNotes": "FIX: Re-conectare automată pentru terminalul bancar la declanșarea plății + optimizare Keep-Alive pe portul COM la 60 secunde pentru stabilitate sporită în modul Ambele.",
-  "publishedAt": "2026-08-12T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.76.exe"
+  "version": "1.2.77",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.77/POSBridge-Setup-v1.2.77.exe",
+  "releaseNotes": "Adaugă închiderea completă a aplicației fără modificarea pornirii automate, verificarea manuală a ultimei transmisii ANAF pentru imprimante Datecs și diagnosticarea detaliată a erorilor de bon pe linie, produs și grupă TVA.",
+  "publishedAt": "2026-08-14T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.77.exe"
 }
