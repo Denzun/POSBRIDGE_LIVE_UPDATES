@@ -1,7 +1,7 @@
 {
-  "version": "1.2.79",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.79/POSBridge-Setup-v1.2.79.exe",
-  "releaseNotes": "FIX acces simultan la imprimanta fiscală: monitorizarea folderului, butoanele din interfață (numerar, raport X/Z, anulare bon, avansare hârtie, rapoarte) și reconectarea automată nu mai pot trimite comenzi în același timp. Anterior, o operațiune pornită din interfață în timpul tipăririi unui bon putea ajunge în bonul clientului, fără niciun mesaj de eroare. FIX monitorizare folder: un bon putea rămâne blocat în coadă și netipărit dacă sosea exact în momentul în care coada se golea, iar fișierele cu același nume (bon.txt) nu mai puteau relua procesarea. FIX modul Ambele: reconectare automată și independentă pentru imprimanta fiscală și terminal, fără întreruperea dispozitivului sănătos; remediere eliberare conexiune WinUSB Incotex. bon.txt și pos.txt folosesc același folder monitorizat configurat în POBSoft, iar monitorizarea rămâne activă după restart și în timpul deconectărilor temporare.",
-  "publishedAt": "2026-08-14T11:03:21Z",
-  "assetName": "POSBridge-Setup-v1.2.79.exe"
+  "version": "1.2.80",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.80/POSBridge-Setup-v1.2.80.exe",
+  "releaseNotes": "FIX Incotex: departamentul nu era trimis către casă, iar bonul putea fi respins cu \"Cota TVA dezactivată\" și rămânea deschis; grupele de TVA 5-8 mergeau pe cote greșite. FIX acces simultan: monitorizarea folderului, butoanele din interfață și reconectarea automată nu mai trimit comenzi în același timp, deci o operațiune pornită manual nu mai poate ajunge în bonul clientului. FIX monitorizare folder: un bon nu mai poate rămâne blocat în coadă, netipărit și fără eroare. FIX modul Ambele: reconectare independentă pentru imprimantă și terminal, iar bon.txt și pos.txt folosesc același folder configurat în POBSoft.",
+  "publishedAt": "2026-08-14T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.80.exe"
 }
