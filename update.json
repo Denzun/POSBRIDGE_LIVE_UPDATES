@@ -1,7 +1,7 @@
 {
-  "version": "1.2.80",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.80/POSBridge-Setup-v1.2.80.exe",
-  "releaseNotes": "FIX Incotex: departamentul nu era trimis către casă, iar bonul putea fi respins cu \"Cota TVA dezactivată\" și rămânea deschis; grupele de TVA 5-8 mergeau pe cote greșite. FIX acces simultan: monitorizarea folderului, butoanele din interfață și reconectarea automată nu mai trimit comenzi în același timp, deci o operațiune pornită manual nu mai poate ajunge în bonul clientului. FIX monitorizare folder: un bon nu mai poate rămâne blocat în coadă, netipărit și fără eroare. FIX modul Ambele: reconectare independentă pentru imprimantă și terminal, iar bon.txt și pos.txt folosesc același folder configurat în POBSoft.",
+  "version": "1.2.81",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.81/POSBridge-Setup-v1.2.81.exe",
+  "releaseNotes": "FIX acces simultan: monitorizarea folderului, butoanele din interfață și reconectarea automată nu mai trimit comenzi în același timp, deci o operațiune pornită manual nu mai poate ajunge în bonul clientului. FIX monitorizare folder: un bon nu mai poate rămâne blocat în coadă, netipărit și fără eroare. FIX modul Ambele: reconectare independentă pentru imprimantă și terminal, iar bon.txt și pos.txt folosesc același folder configurat în POBSoft. Incotex: linia de vânzare revine la formatul verificat din 1.2.78.",
   "publishedAt": "2026-08-14T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.80.exe"
+  "assetName": "POSBridge-Setup-v1.2.81.exe"
 }
