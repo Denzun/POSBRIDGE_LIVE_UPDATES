@@ -1,7 +1,7 @@
 {
-  "version": "1.2.81",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.81/POSBridge-Setup-v1.2.81.exe",
-  "releaseNotes": "FIX acces simultan: monitorizarea folderului, butoanele din interfață și reconectarea automată nu mai trimit comenzi în același timp, deci o operațiune pornită manual nu mai poate ajunge în bonul clientului. FIX monitorizare folder: un bon nu mai poate rămâne blocat în coadă, netipărit și fără eroare. FIX modul Ambele: reconectare independentă pentru imprimantă și terminal, iar bon.txt și pos.txt folosesc același folder configurat în POBSoft. Incotex: linia de vânzare revine la formatul verificat din 1.2.78.",
-  "publishedAt": "2026-08-14T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.81.exe"
+  "version": "1.2.82",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.82/POSBridge-Setup-v1.2.82.exe",
+  "releaseNotes": "FIX Incotex: bonurile nu mai sunt respinse cu \"Eroare sintaxă\" înainte de tipărire. Parola operatorului se trimite exact cum este setată, fără completare cu zerouri — pe modelele Succes M7 o parolă \"0\" completată la \"0000\" bloca deschiderea oricărui bon fiscal. Dacă imprimanta a fost trecută de pe Datecs pe Incotex, verificați ca parola operatorului să fie de un singur caracter (implicit \"0\"). FIX Datecs: raportul \"Citire memorie fiscală de la dată la dată\" trimite acum datele în formatul dd-MM-yy cerut de driver, la fel ca exportul ANAF și extragerea jurnalului electronic. FIX reconectare automată: imprimanta fiscală și terminalul bancar se reconectează singure și în modurile \"Doar casă fiscală\" și \"Doar terminal bancar\", nu numai în \"Ambele\" — după o cădere scurtă de USB nu mai este nevoie de reconectare manuală. Mesaje de eroare mai clare pentru parametri în afara limitelor și pentru cotele TVA dezactivate.",
+  "publishedAt": "2026-08-26T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.82.exe"
 }
