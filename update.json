@@ -1,7 +1,7 @@
 {
-  "version": "1.2.82",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.82/POSBridge-Setup-v1.2.82.exe",
-  "releaseNotes": "FIX Incotex: bonurile nu mai sunt respinse cu \"Eroare sintaxă\" înainte de tipărire. Parola operatorului se trimite exact cum este setată, fără completare cu zerouri — pe modelele Succes M7 o parolă \"0\" completată la \"0000\" bloca deschiderea oricărui bon fiscal. Dacă imprimanta a fost trecută de pe Datecs pe Incotex, verificați ca parola operatorului să fie de un singur caracter (implicit \"0\"). FIX Datecs: raportul \"Citire memorie fiscală de la dată la dată\" trimite acum datele în formatul dd-MM-yy cerut de driver, la fel ca exportul ANAF și extragerea jurnalului electronic. FIX reconectare automată: imprimanta fiscală și terminalul bancar se reconectează singure și în modurile \"Doar casă fiscală\" și \"Doar terminal bancar\", nu numai în \"Ambele\" — după o cădere scurtă de USB nu mai este nevoie de reconectare manuală. Mesaje de eroare mai clare pentru parametri în afara limitelor și pentru cotele TVA dezactivate.",
-  "publishedAt": "2026-08-26T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.82.exe"
+  "version": "1.2.83",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.83/POSBridge-Setup-v1.2.83.exe",
+  "releaseNotes": "Datecs: duplicatul din istoric folosește acum numărul exact al bonului selectat. Adăugat popup central pentru hârtie pe sfârșite sau lipsă hârtie.",
+  "publishedAt": "2026-09-21T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.83.exe"
 }
