@@ -1,7 +1,7 @@
 {
-  "version": "1.2.83",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.83/POSBridge-Setup-v1.2.83.exe",
-  "releaseNotes": "Datecs: duplicatul din istoric folosește acum numărul exact al bonului selectat. Adăugat popup central pentru hârtie pe sfârșite sau lipsă hârtie.",
-  "publishedAt": "2026-09-21T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.83.exe"
+  "version": "1.2.84",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.84/POSBridge-Setup-v1.2.84.exe",
+  "releaseNotes": "FIX Datecs: raportul \"Citire memorie fiscală de la dată la dată\" tipărește din nou, atât sumar cât și detaliat. Se oprea cu eroarea \"Bad input\" a driverului DUDE, chiar dacă datele erau trimise în formatul cerut — comanda se trimitea brut, iar DUDE își validează singur parametrii. Raportul folosește acum comanda cu nume a driverului, care compune el însuși datele. Aceeași corecție și pentru \"Citire memorie fiscală de la Z la Z\". Dacă intervalul nu este completat, se folosesc ultimele 30 de zile. Data greșită dă acum un mesaj clar, cu formatul cerut (ZZ-LL-AA).",
+  "publishedAt": "2026-09-22T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.84.exe"
 }
