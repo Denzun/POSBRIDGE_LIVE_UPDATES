@@ -1,7 +1,7 @@
 {
-  "version": "1.2.85",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.85/POSBridge-Setup-v1.2.85.exe",
-  "releaseNotes": "FIX Datecs: raportul \"Citire memorie fiscală de la dată la dată\" tipărește din nou, atât sumar cât și detaliat. Se oprea cu eroarea \"Bad input\" a driverului DUDE, chiar dacă datele erau trimise în formatul cerut — driverul acceptă acest raport doar prin motorul său de scripturi, la fel ca programul de referință. Aceeași corecție și pentru \"Citire memorie fiscală de la Z la Z\". FIX Datecs: bonul cu plată pe card și reducere nu se mai blochează cu \"Nu sunt suficienți bani în casa de marcat\". Un discount procentual se putea rotunji cu un ban diferit la POS față de imprimantă, iar imprimanta cerea numerar pentru rest; acum bonul se închide exact pe totalul calculat de imprimantă. Restul normal la plata în numerar funcționează nemodificat. FIX Datecs: introducerea de numerar prin fișier (I^) înregistra a suta parte din sumă — 500 lei se înregistrau ca 5 lei — și casa rămânea fără numerar pentru rest. Butonul din interfață nu a fost afectat. Activarea nu mai cere internet la fiecare pornire: după prima confirmare de la server, aplicația pornește activată timp de 6 luni fără apel la server. O linie de internet căzută nu mai trece casa în mod demo.",
-  "publishedAt": "2026-09-22T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.85.exe"
+  "version": "1.2.86",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.86/POSBridge-Setup-v1.2.86.exe",
+  "releaseNotes": "FIX Incotex USB direct: the watchdog no longer checks for a COM port for a WinUSB connection. The incorrect check could stop monitoring and disconnect the printer even while USB was working.",
+  "publishedAt": "2026-09-24T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.86.exe"
 }
