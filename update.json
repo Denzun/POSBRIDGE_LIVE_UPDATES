@@ -1,7 +1,7 @@
 {
-  "version": "1.2.86",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.86/POSBridge-Setup-v1.2.86.exe",
-  "releaseNotes": "FIX Incotex USB direct: the watchdog no longer checks for a COM port for a WinUSB connection. The incorrect check could stop monitoring and disconnect the printer even while USB was working.",
-  "publishedAt": "2026-09-24T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.86.exe"
+  "version": "1.2.88",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.88/POSBridge-Setup-v1.2.88.exe",
+  "releaseNotes": "Actualizare POSBridge la versiunea 1.2.88.",
+  "publishedAt": "2026-10-13T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.88.exe"
 }
