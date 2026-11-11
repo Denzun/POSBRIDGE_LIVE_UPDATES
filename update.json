@@ -1,7 +1,7 @@
 {
-  "version": "1.2.88",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.88/POSBridge-Setup-v1.2.88.exe",
-  "releaseNotes": "Actualizare POSBridge la versiunea 1.2.88.",
-  "publishedAt": "2026-10-13T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.88.exe"
+  "version": "1.2.91",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.91/POSBridge-Setup-v1.2.91.exe",
+  "releaseNotes": "Interfață actualizată, îmbunătățiri de conectare și pornire cu Windows. Bonuri de verificat pentru diferențe de minimum 0,06 lei, cu păstrarea toleranței de 0,05 lei. Ghid în limba română inclus.",
+  "publishedAt": "2026-11-11T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.91.exe"
 }
