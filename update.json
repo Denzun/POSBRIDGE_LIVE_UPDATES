@@ -1,7 +1,7 @@
 {
-  "version": "1.2.92",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.92/POSBridge-Setup-v1.2.92.exe",
-  "releaseNotes": "Repararea conexiunii imprimantei, închidere sigură și reconectare după actualizare. Integrare BRD și ghid în limba română incluse.",
+  "version": "1.2.93",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.93/POSBridge-Setup-v1.2.93.exe",
+  "releaseNotes": "Corecție Tremol: CUI/CIF client din linia CF este transmis la deschiderea bonului. Include repararea conexiunii imprimantei, reconectarea după actualizare, integrarea BRD și ghidul în limba română.",
   "publishedAt": "2026-11-12T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.92.exe"
+  "assetName": "POSBridge-Setup-v1.2.93.exe"
 }
