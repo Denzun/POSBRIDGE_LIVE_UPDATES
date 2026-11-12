@@ -1,7 +1,7 @@
 {
-  "version": "1.2.93",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.93/POSBridge-Setup-v1.2.93.exe",
-  "releaseNotes": "Corecție Tremol: CUI/CIF client din linia CF este transmis la deschiderea bonului. Include repararea conexiunii imprimantei, reconectarea după actualizare, integrarea BRD și ghidul în limba română.",
+  "version": "1.2.94",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.94/POSBridge-Setup-v1.2.94.exe",
+  "releaseNotes": "Corecție ING / Ingenico Mellon (Printec): selectarea driverului corect, respectarea vitezei configurate și corectarea apelului de plată. Include corecția Tremol pentru CUI/CIF și toate îmbunătățirile anterioare.",
   "publishedAt": "2026-11-12T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.93.exe"
+  "assetName": "POSBridge-Setup-v1.2.94.exe"
 }
