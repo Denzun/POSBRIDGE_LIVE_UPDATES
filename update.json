@@ -1,7 +1,7 @@
 {
-  "version": "1.2.94",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.94/POSBridge-Setup-v1.2.94.exe",
-  "releaseNotes": "Corecție ING / Ingenico Mellon (Printec): selectarea driverului corect, respectarea vitezei configurate și corectarea apelului de plată. Include corecția Tremol pentru CUI/CIF și toate îmbunătățirile anterioare.",
-  "publishedAt": "2026-11-12T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.94.exe"
+  "version": "1.2.95",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.95/POSBridge-Setup-v1.2.95.exe",
+  "releaseNotes": "Integrare ING Payten / Asseco ECR: identificare automată TID, diagnostic detaliat și protecție împotriva retrimiterii plăților cu rezultat neconfirmat. Mellon GECR rămâne neschimbat. Include toate îmbunătățirile anterioare.",
+  "publishedAt": "2026-11-13T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.95.exe"
 }
