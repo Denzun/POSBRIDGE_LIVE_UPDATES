@@ -1,7 +1,7 @@
 {
-  "version": "1.2.95",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.95/POSBridge-Setup-v1.2.95.exe",
-  "releaseNotes": "Integrare ING Payten / Asseco ECR: identificare automată TID, diagnostic detaliat și protecție împotriva retrimiterii plăților cu rezultat neconfirmat. Mellon GECR rămâne neschimbat. Include toate îmbunătățirile anterioare.",
-  "publishedAt": "2026-11-13T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.95.exe"
+  "version": "1.2.98",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.98/POSBridge-Setup-v1.2.98.exe",
+  "releaseNotes": "ING Payten / Asseco pe Desk2600: detectarea automată a portului COM, plată directă în RON și citirea TID-ului după aprobare. O plată cu rezultat incert rămâne disponibilă pentru verificare, fără retrimitere automată. Include și corecțiile Daisy din 1.2.97.",
+  "publishedAt": "2026-11-18T09:52:00Z",
+  "assetName": "POSBridge-Setup-v1.2.98.exe"
 }
