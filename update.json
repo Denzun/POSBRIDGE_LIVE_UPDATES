@@ -1,7 +1,7 @@
 {
-  "version": "1.2.98",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.98/POSBridge-Setup-v1.2.98.exe",
-  "releaseNotes": "ING Payten / Asseco pe Desk2600: detectarea automată a portului COM, plată directă în RON și citirea TID-ului după aprobare. O plată cu rezultat incert rămâne disponibilă pentru verificare, fără retrimitere automată. Include și corecțiile Daisy din 1.2.97.",
-  "publishedAt": "2026-11-18T09:52:00Z",
-  "assetName": "POSBridge-Setup-v1.2.98.exe"
+  "version": "1.2.99",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.99/POSBridge-Setup-v1.2.99.exe",
+  "releaseNotes": "Datecs poate tipări etichete de ambalaj cu preț zero, precum ------ PAHAR ------, ca text la 0,00 lei. Totalul bonului și suma încasată se păstrează. Corecția se aplică și bonurilor deja reținute pentru verificare.",
+  "publishedAt": "2026-11-20T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.99.exe"
 }
