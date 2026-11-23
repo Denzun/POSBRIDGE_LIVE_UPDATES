@@ -1,7 +1,7 @@
 {
-  "version": "1.2.100",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.100/POSBridge-Setup-v1.2.100.exe",
-  "releaseNotes": "ING Payten recunoaște anularea confirmată pe terminal și permite următoarea plată fără reconciliere manuală. Dacă rezultatul plății este incert, POS Bridge cere verificarea înainte de o nouă debitare.",
-  "publishedAt": "2026-11-23T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.100.exe"
+  "version": "1.2.101",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.101/POSBridge-Setup-v1.2.101.exe",
+  "releaseNotes": "O singură instanță POS Bridge procesează bonuri pe același calculator, inclusiv în sesiuni Remote Desktop. La repornire, aplicația așteaptă finalizarea bonului în curs și închiderea instanței vechi. Include corecția ING Payten pentru plățile anulate pe terminal.",
+  "publishedAt": "2026-11-23T13:09:52Z",
+  "assetName": "POSBridge-Setup-v1.2.101.exe"
 }
