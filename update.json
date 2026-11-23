@@ -1,7 +1,7 @@
 {
-  "version": "1.2.99",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.99/POSBridge-Setup-v1.2.99.exe",
-  "releaseNotes": "Datecs poate tipări etichete de ambalaj cu preț zero, precum ------ PAHAR ------, ca text la 0,00 lei. Totalul bonului și suma încasată se păstrează. Corecția se aplică și bonurilor deja reținute pentru verificare.",
-  "publishedAt": "2026-11-20T00:00:00Z",
-  "assetName": "POSBridge-Setup-v1.2.99.exe"
+  "version": "1.2.100",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.100/POSBridge-Setup-v1.2.100.exe",
+  "releaseNotes": "ING Payten recunoaște anularea confirmată pe terminal și permite următoarea plată fără reconciliere manuală. Dacă rezultatul plății este incert, POS Bridge cere verificarea înainte de o nouă debitare.",
+  "publishedAt": "2026-11-23T00:00:00Z",
+  "assetName": "POSBridge-Setup-v1.2.100.exe"
 }
