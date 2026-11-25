@@ -1,7 +1,7 @@
 {
-  "version": "1.2.101",
-  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.101/POSBridge-Setup-v1.2.101.exe",
-  "releaseNotes": "O singură instanță POS Bridge procesează bonuri pe același calculator, inclusiv în sesiuni Remote Desktop. La repornire, aplicația așteaptă finalizarea bonului în curs și închiderea instanței vechi. Include corecția ING Payten pentru plățile anulate pe terminal.",
-  "publishedAt": "2026-11-23T13:09:52Z",
-  "assetName": "POSBridge-Setup-v1.2.101.exe"
+  "version": "1.2.102",
+  "downloadUrl": "https://github.com/Denzun/POSBRIDGE_LIVE_UPDATES/releases/download/v1.2.102/POSBridge-Setup-v1.2.102.exe",
+  "releaseNotes": "Datecs: butonul X detaliat tipărește raportul zilei fără închidere fiscală. Bara de jos afișează clar când există o actualizare și ce versiune este disponibilă. Mesajul de verificare a conexiunii BRD AIM psECR a fost clarificat.",
+  "publishedAt": "2026-11-25T08:00:37Z",
+  "assetName": "POSBridge-Setup-v1.2.102.exe"
 }
